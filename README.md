@@ -168,6 +168,8 @@ Build a **complete working POS system** with:
 ## 👤 Author
 
 **Vrajraj Chauhan**  
+**Premal Oza**
+**Tabbarej Sumra**
 Hackathon Project – Odoo POS Cafe
 
 ---
